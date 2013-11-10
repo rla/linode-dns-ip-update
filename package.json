@@ -1,0 +1,9 @@
+{
+    "name": "ip-update",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "request": "2.27",
+        "async": "0.2"
+    }
+}

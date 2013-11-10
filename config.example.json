@@ -1,0 +1,7 @@
+{
+    "linode": {
+        "key": "ABC123",
+        "domain": "rlaanemets.com",
+        "resource": "home"
+    }
+}
